@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "codemirror": "^5.60.0",
+    "codemirror": "^6.0.0",
     "core-js": "^3.6.5",
     "posix": "^4.2.0",
     "quasar": "^1.0.0"
